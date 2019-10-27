@@ -1,0 +1,4 @@
+/home/ubuntu/labwork4/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/labwork4/CMakeFiles/factorial.dir
+/home/ubuntu/labwork4/CMakeFiles/edit_cache.dir
+/home/ubuntu/labwork4/CMakeFiles/main.dir
